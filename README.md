@@ -8,6 +8,13 @@
 - 📫 You can reach me at my personal email;
   - **Eivindchen37@gmail.com**
  
+<hr>
+
+##Programming Languages that I use;
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
 
 <!--
 **FrostyAqua37/FrostyAqua37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
