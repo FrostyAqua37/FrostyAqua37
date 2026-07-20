@@ -1,5 +1,13 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px">, I'm Eivind Chen</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px">, I'm Eivind Chen</h1>
+
+- 🌱 I'm aspiring to be an **AI / ML Engineer**, and I'm currently learning about Python frameworks; **Pandas, NumPy, Matplotlib and SciKit-Learn.**
+
+- 🎓 I gratuaded with a Bachelor's degree in **IT and Informationssystems** from University of Agder [UiA], Kristiansand.
+
+- 📫 You can reach me at my personal email;
+  - **Eivindchen37@gmail.com**
+ 
 
 <!--
 **FrostyAqua37/FrostyAqua37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
